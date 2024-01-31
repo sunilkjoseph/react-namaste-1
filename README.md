@@ -4,7 +4,7 @@ This program is developed based on a React video series by MuLearn, provided thr
 
 ## About MuLearn and MuTech
 
-MuLearn is a platform that offers educational content, and MuTech is their YouTube channel where you can find the React video series. Visit [MuTech on YouTube](https://www.youtube.com/@mulearntech) to access the videos.
+[MuLearn](https://mulearn.org/) is a platform that offers educational content, and MuTech is their YouTube channel where you can find the React video series. Visit [MuTech on YouTube](https://www.youtube.com/@mulearntech) to access the videos.
 
 ## Getting Started
 
